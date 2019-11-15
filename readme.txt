@@ -1,1 +1,1 @@
-Trying to see what happens if I work with both github and bitbucket
+This is supposed to become a website for Badminton players , who need partners and courts to play badminton. 
